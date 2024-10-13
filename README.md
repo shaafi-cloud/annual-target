@@ -1,4 +1,4 @@
-# Node.js Homework Assignment: Target Calculation Excluding Specific Days
+# Target Calculation Excluding Specific Days
 
 ## Description
 
