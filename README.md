@@ -18,10 +18,10 @@ To run the project locally:
    ```bash
    git clone https://github.com/shaafi-cloud/anuual-target.git
 
-2. Navigate to the project directory:
-    cd your-repository-name
-3. Ensure you have Node.js installed on your machine. If not, you can install it from Node.js website.
+2. Navigate to the project directory: `cd your-repository-name`
 
-4. Run the JavaScript file
-    node index.js
+3. Ensure you have Node.js installed on your machine. If not, you can install it from [Node.js website](https://nodejs.org/).
+
+4. Run the JavaScript file: `node index.js`
+
 
